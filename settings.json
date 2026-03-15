@@ -6,8 +6,8 @@
     "type": "WELCOME TO MYTHICSMP"
   },
   "server": {
-    "ip": "mythicsmp.play.hosting",
-    "port": 25565,
+    "ip": "Test-MOZF.aternos.me",
+    "port": 50741,
     "version": "",
     "try-creative": false
   },
@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Welcome to mythicsmp",
+        "Sub to mythic yt!",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "auto-reconnect-delay": 100,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
