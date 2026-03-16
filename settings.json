@@ -6,8 +6,8 @@
     "type": "WELCOME TO MYTHICSMP"
   },
   "server": {
-    "ip": "Test-MOZF.aternos.me",
-    "port": 50741,
+    "ip": "mythicsmp.play.hosting",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
