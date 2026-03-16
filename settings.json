@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MYTHIC",
+    "username": "1Hello",
     "password": "",
-    "type": "WELCOME TO MYTHICSMP"
+    "type": "0"
   },
   "server": {
-    "ip": "Test-MOZF.aternos.me",
-    "port": 50741,
+    "ip": "MYTHICSMPxx.play.hosting",
+    "port": 9209,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Welcome to mythicsmp",
-        "Sub to mythic yt!",
-        "I like to play Minecraft!"
+        "1",
+        "2",
+        "3"
       ]
     },
     "chat-log": true,
