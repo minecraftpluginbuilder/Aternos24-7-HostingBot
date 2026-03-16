@@ -6,7 +6,7 @@
     "type": "0"
   },
   "server": {
-    "ip": "MYTHICSMPxx.play.hosting",
+    "ip": "MYTHICSMPxx.play.hosting:9209",
     "port": 9209,
     "version": "",
     "try-creative": false
