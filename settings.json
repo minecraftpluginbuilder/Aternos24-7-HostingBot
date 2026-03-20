@@ -6,7 +6,7 @@
     "type": "0"
   },
   "server": {
-    "ip": "de27.spaceify.eu",
+    "ip": "de27.spaceify.eu:26010",
     "port": 26010,
     "version": "",
     "try-creative": false
