@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "1Hello",
+    "username": "MythicPro_0101",
     "password": "",
     "type": "0"
   },
   "server": {
-    "ip": "de27.spaceify.eu:26010",
+    "ip": "de27.spaceify.eu",
     "port": 26010,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "1",
-        "2",
-        "3"
+        "This server is still in BETA",
+        "It gonna release on 30 march 2026",
+        "it will gonna have admin abuse on 3 april"
       ]
     },
     "chat-log": true,
